@@ -1,0 +1,21 @@
+{
+  "name": "simple_websocket",
+  "version": "0.0.1",
+  "description": "Simple app for testing websocket technology.",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "exaple",
+    "for",
+    "juniors"
+  ],
+  "author": "Dmitry Evtifeev",
+  "license": "ISC",
+  "dependencies": {
+    "normalize.css": "^8.0.0",
+    "ws": "^6.0.0"
+  }
+}
